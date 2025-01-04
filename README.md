@@ -67,7 +67,7 @@ Looking forward to helping you!!
 ![image](https://github.com/user-attachments/assets/620a0f03-5ac2-4dd4-9ef2-097dd0584fcb)
 ![image](https://github.com/user-attachments/assets/d1cf259a-8be3-4c4d-aa96-2babc6bc991f)
 ![image](https://github.com/user-attachments/assets/41d4f203-2e50-469a-adfb-0117b37af32d)
-*******************************************************************************************
+*****************************************************************************************
 # Admin Pannel
 ![image](https://github.com/user-attachments/assets/524c2aa8-3646-4d1b-86dd-74151c981bc4)
 ![image](https://github.com/user-attachments/assets/d7057952-1058-4fba-a08f-2b63cbf4e299)
