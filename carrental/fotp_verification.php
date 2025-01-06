@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $stored_otp = isset($_SESSION['forgotpassword_data']['otp']) ? $_SESSION['forgotpassword_data']['otp'] : '';
 
     if ($user_otp == $stored_otp) {
-        // Correct OTP, allow to the user to reset the password
+        // Correct OTP, allow the user to reset the password
         header("Location: reset_password.php");
         exit();
     } else {
