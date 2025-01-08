@@ -51,7 +51,7 @@ echo "<script type='text/javascript'> document.location = 'confirmed-bookings.ph
 	
 	<title>Car Rental Portal | New Bookings   </title>
 
-	<!-- Font awesome -->
+	<!-- Font awesomes -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- Sandstone Bootstrap CSS -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
