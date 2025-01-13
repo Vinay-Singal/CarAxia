@@ -11,7 +11,7 @@ ini_set('display_errors', 1);
 <head>
 
 <title>Car Rental Portal</title>
-<!--Bootstraps -->
+<!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
