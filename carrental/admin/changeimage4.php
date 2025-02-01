@@ -7,7 +7,7 @@ if(strlen($_SESSION['alogin'])==0)
 header('location:index.php');
 }
 else{
-// Code for change password	
+// Code for change passwords	
 if(isset($_POST['update']))
 {
 $vimage=$_FILES["img4"]["name"];
