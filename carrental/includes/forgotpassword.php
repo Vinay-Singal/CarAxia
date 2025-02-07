@@ -7,7 +7,7 @@ require ("PHPMailer/PHPMailer.php");
 require ("PHPMailer/SMTP.php");
 require ("PHPMailer/Exception.php");
 
-// Function to generate random OTP
+// Function to generate random OTP's
 function generateOTP()
 {
     return rand(1000, 9999);
